@@ -1,4 +1,4 @@
-SentimentAnalysis
+Sentiment Analysis
 ============
 (注：コードがとても汚いです)
 
